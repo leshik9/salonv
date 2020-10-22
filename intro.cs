@@ -16,5 +16,10 @@ namespace salonv
         {
             InitializeComponent();
         }
+
+        private void Имя_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
