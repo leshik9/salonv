@@ -18,7 +18,6 @@ namespace salonv
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new intro());
 
-
         }
     }
 }
