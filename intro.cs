@@ -21,5 +21,10 @@ namespace salonv
         {
 
         }
+
+        private void intro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
